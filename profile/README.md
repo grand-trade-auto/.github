@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-## Preview
+## 🖼️ Preview
 ![Image](https://github.com/user-attachments/assets/cd2e4556-b1d3-46f8-a9b6-af2ac0a842cf)
 
 ## 🚗 프로젝트 소개 (Project Overview)
